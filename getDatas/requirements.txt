@@ -1,0 +1,4 @@
+#to install the dependecies run this code :
+# pip install -r requirements.text
+selenium==3.141.0
+urllib3==1.26.6
